@@ -6,4 +6,4 @@ Physics equations and constants. <early development>
 
 ## Credits
 
-- Inspired by [PhysiPy](https://github.com/rohankishore/PhysiPy) by [@rohankishore](https://github.com/rohankishore)
+- Inspired by [PhysiPy](https://github.com/rohankishore/PhysiPy) from [@rohankishore](https://github.com/rohankishore)
